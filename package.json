@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Michaelvons/WhatDoYouLike/issues"
   },
-  "homepage": "https://github.com/Michaelvons/WhatDoYouLike#readme"
+  "homepage": "https://github.com/Michaelvons/WhatDoYouLike#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
